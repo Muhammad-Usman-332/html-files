@@ -1,0 +1,1 @@
+This HTML file contains a simple user input form with text fields, email, password, date, color picker, radio buttons, dropdown menu, and a textarea for collecting personal details.
